@@ -4,7 +4,11 @@
 ![Profile Banner](github-header-image.png) <!-- Replace this placeholder with a custom banner if desired -->
 
 
-I'm Mikael, a passionate Back End Developer from Gothenburg, Sweden! My main focus is on **.NET** development, but I'm skilled across various stacks and always eager to learn more.
+I'm Mikael, a passionate Back End Developer from Gothenburg, Sweden, currently studying to become a Software Developer! My main focus is on .NET development, where I create efficient, reliable, and scalable solutions tailored to meet diverse business needs. While specializing in back-end development, I’m also exploring various technology stacks, continually expanding my skill set, and always eager to learn more.
+
+As a student, I balance my studies with hands-on projects that deepen my understanding of software architecture, coding best practices, and emerging trends in the tech industry. I’m dedicated to writing clean, maintainable, and effective code and am excited to apply these skills in real-world scenarios, both in my studies and professional projects.
+
+Outside of my studies, I actively seek opportunities to collaborate, contribute to open-source projects, and connect with the tech community in Gothenburg. Let’s connect if you’re interested in discussing tech, brainstorming ideas, or collaborating on an innovative project!
 
 
 ---
@@ -24,8 +28,9 @@ I'm Mikael, a passionate Back End Developer from Gothenburg, Sweden! My main foc
 
 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDaskalou&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDaskalou&layout=compact&theme=radical)
+
 
 ---
 
