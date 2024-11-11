@@ -1,8 +1,10 @@
 # 👋 Hello! I'm Mikael
 
+
 ![Profile Banner](https://via.placeholder.com/1200x300/007acc/ffffff?text=👨‍💻+Mikael+-+Full+Stack+Developer+|+.NET+Specialist+|+Gothenburg,+Sweden) <!-- Replace this placeholder with a custom banner if desired -->
 
-I'm Mikael, a passionate Full Stack Developer from Gothenburg, Sweden! My main focus is on **.NET** development, but I'm skilled across various stacks and always eager to learn more.
+
+I'm Mikael, a passionate Back End Developer from Gothenburg, Sweden! My main focus is on **.NET** development, but I'm skilled across various stacks and always eager to learn more.
 
 
 ---
@@ -16,7 +18,7 @@ I'm Mikael, a passionate Full Stack Developer from Gothenburg, Sweden! My main f
 
 - **Tools & Platforms:**  
   ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-  ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) 1.png)
+
 
 ---
 
@@ -38,7 +40,6 @@ I'm Mikael, a passionate Full Stack Developer from Gothenburg, Sweden! My main f
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedIn)
-- [Twitter](https://twitter.com/YourTwitter)
 
 ---
 
