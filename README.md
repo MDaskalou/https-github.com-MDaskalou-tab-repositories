@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Mikael
 
 
-![Profile Banner](https://via.placeholder.com/1200x300/007acc/ffffff?text=👨‍💻+Mikael+-+Full+Stack+Developer+|+.NET+Specialist+|+Gothenburg,+Sweden) <!-- Replace this placeholder with a custom banner if desired -->
+![Profile Banner](github-header-image.png) <!-- Replace this placeholder with a custom banner if desired -->
 
 
 I'm Mikael, a passionate Back End Developer from Gothenburg, Sweden! My main focus is on **.NET** development, but I'm skilled across various stacks and always eager to learn more.
